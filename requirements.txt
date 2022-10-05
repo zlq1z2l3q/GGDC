@@ -1,0 +1,14 @@
+torch
+torchvision
+pillow
+numpy
+requests
+tqdm
+dlib
+scipy
+opencv-python
+visdom
+dominate
+unidecode
+
+
