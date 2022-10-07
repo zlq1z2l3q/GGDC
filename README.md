@@ -1,8 +1,6 @@
 # Lifespan Age Synthesis with Geometry Guidance and Decorrelation Constraint
 ### [Project Page]() | [Paper]()
 
-[![Explore in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()<br>
-
 [-]()<sup>1</sup> ,
 [-]()<sup>1</sup>,
 [-]()<sup>2</sup>,
@@ -18,9 +16,9 @@
 -<br>
 This code is the official PyTorch implementation of the paper:
 > **Lifespan Age Synthesis with Geometry Guidance and Decorrelation Constraint**<br>
-> -, -, -, -, -<br>
-> ECCV 2020<br>
-> https://arxiv.org/pdf/2003.09764.pdf
+> -, -, -, -, -(institutions)<br>
+> (journal)<br>
+> (arxiv link)
 
 ## Preparation
 
