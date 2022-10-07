@@ -27,7 +27,7 @@ This code is the official PyTorch implementation of the paper:
 Please follow [this github](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis) to prepare the environments.
 
 ## Training and Testing (link to the pretrained models in the colab)
-Download the dataset from [here]() and put them under the `datasets` folder.<br>
+Download the dataset from [male](https://drive.google.com/file/d/1WxN-5t7osm1pfMTPNG5dFw8ngUUii1J6/view?usp=sharing) and [female](https://drive.google.com/file/d/1QlK-ad3RcgHr5kx0mygXDNwz3EFV6bfG/view?usp=sharing) and put them to ./datasets/males and ./datasets/females.<br>
 Training (please modify `--dataroot`, `--name`):
 ```
 sh train_GGDC.sh
@@ -38,7 +38,7 @@ sh test_GGDC.sh
 ```
 
 ## Quick Demo
-You can run the demo locally or explore it in Colab [![Explore in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()<br>
+You can run the demo locally or explore it in Colab [![Explore in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yoHVIQ0uxR-6CT0fgS5qXjL3tFQLQnQP#scrollTo=54Zc2zVvJ_Zn)<br>
 
 ## Training/Testing on New Datasets
 If you wish to train the model on a new dataset, arrange it in the following structure:
