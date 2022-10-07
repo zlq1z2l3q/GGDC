@@ -13,10 +13,9 @@
 </div>
 
 ## Overview
--<br>
 This code is the official PyTorch implementation of the paper:
 > **Lifespan Age Synthesis with Geometry Guidance and Decorrelation Constraint**<br>
-> -, -, -, -, -(institutions)<br>
+> -, -, -, -, -(aut<br>
 > (journal)<br>
 > (arxiv link)
 
