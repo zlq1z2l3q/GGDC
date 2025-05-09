@@ -1,6 +1,6 @@
 torch
 torchvision
-pillow
+pillow==9.5.0
 numpy
 requests
 tqdm
